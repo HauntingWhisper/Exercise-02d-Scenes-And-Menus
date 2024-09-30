@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220
 
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
+Okay so the extra stuff i've done was, created all my own assets, added a background image start, end and playing screen, as well as a pause putton (escape), both background music as well as sound effects that go off when you shoot the enemy shoots and you destory an asteriod. I think that was it, i ran out of time at edisons for him to help me figure out a second level
 
 ## Implementation
 
@@ -19,4 +19,4 @@ None
 None
 
 ## Created by
-Nathan Mishler
+Reki Atlas Clawthorne
